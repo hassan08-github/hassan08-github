@@ -1,7 +1,7 @@
 ![logo](https://github.com/hassan08-github/hassan08-github/blob/main/Hassan_Abbas.png)
 <h1 align="center">Hi 👋, I'm Hassan Abbas</h1>
 <h3 align="center">Final Year Electrical Engineer has expertise in ML and AI projects. And Second proficiency is Digital Systems and Design.</h3>
-<img align "right" alt="coding"width="400"src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTBUTEgzdUtuOWQ5Um9Sd0RDSWxuQVlaZWhmUXxBQ3Jtc0ttZ3NDVjNKNnp0NHZFUW56eEUzdmFLR3dWUEk0SjczdXk0MEt1am9tR2RYYTh5RWNhb0pibkpwaE0wOEprNjlHb2dRZDNBZWhMMEw0UjZOUWUzb1RhYWZDRDdLSEx0YXcwQmVKdzlEdFAxdUJZWTRSUQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align "right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTBUTEgzdUtuOWQ5Um9Sd0RDSWxuQVlaZWhmUXxBQ3Jtc0ttZ3NDVjNKNnp0NHZFUW56eEUzdmFLR3dWUEk0SjczdXk0MEt1am9tR2RYYTh5RWNhb0pibkpwaE0wOEprNjlHb2dRZDNBZWhMMEw0UjZOUWUzb1RhYWZDRDdLSEx0YXcwQmVKdzlEdFAxdUJZWTRSUQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan08-github&label=Profile%20views&color=0e75b6&style=flat" alt="hassan08-github" /> </p>
 
