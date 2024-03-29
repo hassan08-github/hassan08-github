@@ -1,7 +1,7 @@
 ![logo](https://github.com/hassan08-github/hassan08-github/blob/main/Hassan_Abbas.png)
 <h1 align="center">Hi 👋, I'm Hassan Abbas</h1>
 <h3 align="center">Final Year Electrical Engineer has expertise in ML and AI projects. And Second proficiency is Digital Systems and Design.</h3>
-<img align "right" alt="Coding" width="400" src="[https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FlP8xu5t2DLGG045H8F%2Fgiphy.gif%3Fcid%3D6c09b95216cal13buz5bdr9ck4aubpy3owe4xcz99fk209pm%26ep%3Dv1_internal_gif_by_id%26rid%3Dgiphy.gif%26ct%3Ds&tbnid=heNSQwKORMWQ6M&vet=12ahUKEwiTk9Dgk5iFAxWdTqQEHcYpDn8QMygbegUIARDHAQ..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fstickers%2Fhacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F&docid=kYC1UnP-ccQn6M&w=382&h=480&q=animated%20coding%20gif&ved=2ahUKEwiTk9Dgk5iFAxWdTqQEHcYpDn8QMygbegUIARDHAQ)">
+<img align "right" alt="Coding" width="400" src="https://github.com/hassan08-github/hassan08-github/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan08-github&label=Profile%20views&color=0e75b6&style=flat" alt="hassan08-github" /> </p>
 
