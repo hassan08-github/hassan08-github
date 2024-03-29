@@ -1,7 +1,7 @@
 ![logo](https://github.com/hassan08-github/hassan08-github/blob/main/Hassan_Abbas.png)
 <h1 align="center">Hi 👋, I'm Hassan Abbas</h1>
 <h3 align="center">Final Year Electrical Engineer has expertise in ML and AI projects. And Second proficiency is Digital Systems and Design.</h3>
-<img align "right" alt="Coding" width="400" src="https://github.com/hassan08-github/hassan08-github/blob/main/giphy.gif">
+<img align "left" alt="Coding" width="400" src="https://github.com/hassan08-github/hassan08-github/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan08-github&label=Profile%20views&color=0e75b6&style=flat" alt="hassan08-github" /> </p>
 
