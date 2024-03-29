@@ -1,7 +1,7 @@
 ![logo](https://github.com/hassan08-github/hassan08-github/blob/main/Hassan_Abbas.png)
 <h1 align="center">Hi 👋, I'm Hassan Abbas</h1>
 <h3 align="center">Final Year Electrical Engineer has expertise in ML and AI projects. And Second proficiency is Digital Systems and Design.</h3>
-<img align "right" alt="Coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F330915%2Fscreenshots%2F3587000%2F10_coding_dribbble.gif&tbnid=sDc0a5ilIqY_XM&vet=12ahUKEwiTk9Dgk5iFAxWdTqQEHcYpDn8QMygCegQIARB4..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fchipp%2Fcollections%2F572323-coding-gifs&docid=P8Ywr8nqIHzn_M&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwiTk9Dgk5iFAxWdTqQEHcYpDn8QMygCegQIARB4" /](https://github.com/rudrabarad/Gifs)>
+<img align "right" alt="Coding" width="400" src="[[https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F330915%2Fscreenshots%2F3587000%2F10_coding_dribbble.gif&tbnid=sDc0a5ilIqY_XM&vet=12ahUKEwiTk9Dgk5iFAxWdTqQEHcYpDn8QMygCegQIARB4..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fchipp%2Fcollections%2F572323-coding-gifs&docid=P8Ywr8nqIHzn_M&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwiTk9Dgk5iFAxWdTqQEHcYpDn8QMygCegQIARB4" /](https://github.com/rudrabarad/Gifs)](https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan08-github&label=Profile%20views&color=0e75b6&style=flat" alt="hassan08-github" /> </p>
 
